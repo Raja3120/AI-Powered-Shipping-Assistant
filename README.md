@@ -59,6 +59,10 @@ json
   "estimated_cost": 15
 }
 ```
+Example:
+
+![image](https://github.com/user-attachments/assets/2dbe551f-a73f-4b31-ac46-ecd16f023127)
+
 ## AI Shipping Assistant
 Use the /ask-ai endpoint to ask natural language questions about shipping.
 
@@ -74,6 +78,11 @@ json
   "response": "For a 3kg package traveling 700 km, the cheapest shipping option is USPS at $18."
 }
 ```
+
+Example:
+
+![image](https://github.com/user-attachments/assets/828b6dfa-a314-477b-9b40-16995aec5c85)
+
 ## Technical Stack
 **Python:** Backend logic.
 
